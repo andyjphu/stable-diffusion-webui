@@ -1,0 +1,7 @@
+(nsfw), 1girl, (picture), full body, ((realistic) photo), highest quality, (18 year old), ((wearing sexy see through (white ballerina leotard))), nipples, (detailed face and eyes:1.2), ballet hall, wavy stylized long hair, artwork, freckles, smile, flat chest, sparkling eyes, slut, erotic pose, horny, (suggestive:1.1), (tanned, warm lighting:1.2), retro wood wall, realistic professionally color graded photograph, soft lighting
+
+
+
+(Subsurface scattering:1.2), Realistic, masterpiece quality, Figure Drawing, (detailed face and eyes:1.2), 1girl, cute, pale white skin, freckles, blush, blond hair, french braid, small breasts, nipples, navel, lab coat, undressing, petite, skinny, glasses, smirk, dim lighting, laboratory
+Negative prompt: sfw, low resolution, (inaccurate anatomy), (extra digits), text, error, big tits, large breasts, low quality, jpeg artifacts, signature, watermark, blurry, censorship, deformed, amputee
+Steps: 47, Sampler: DDIM, CFG scale: 15, Seed: 3883745355, Size: 512x768, Model hash: e2ec4647, Batch size: 8, Batch pos: 3
